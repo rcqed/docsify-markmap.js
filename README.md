@@ -33,7 +33,7 @@ you can see https://markmap.js.org/
 ```(end)
 ```
 
-### use<style></style> to custom the size
+### use css to custom the size
 
 ```
 <style>

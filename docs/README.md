@@ -25,7 +25,7 @@
 
 - Katex
   - $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-  - [More Katex](#?d=gist:af76a4c245b302206b16aec503dbe07b:katex.md)
+  - More Katex
 - Now we can wrap very very very very long text based on `maxWidth` option
 ```
 
@@ -52,6 +52,6 @@
 
 - Katex
   - $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-  - [More Katex](#?d=gist:af76a4c245b302206b16aec503dbe07b:katex.md)
+  - More Katex
 - Now we can wrap very very very very long text based on `maxWidth` option
 ```

@@ -32,4 +32,3 @@ add to index.html on your docsify.
 
  -345
 ```
-```

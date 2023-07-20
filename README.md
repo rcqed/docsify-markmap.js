@@ -33,6 +33,17 @@ you can see https://markmap.js.org/
 ```(end)
 ```
 
+### use<style></style> to custom the size
+
+```
+<style>
+  .markmap {
+    width: 100%;
+    height: 500px;
+  }
+</style>
+```
+
 ### Open it on your docsify
 
 ![readme](./readme.png)

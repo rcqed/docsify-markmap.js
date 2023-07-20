@@ -4,16 +4,13 @@
 
 ## How to use
 
-### NPM
+### NPM or CDN
 ```
 npm i docsify-markmap.js
 ```
 
-### CDN
-
-add to index.html on your docsify.
-
 ```
+add to index.html on your docsify.
 <script src="https://cdn.jsdelivr.net/npm/markmap-autoloader@0.15.2"></script>
 <script src="https://cdn.jsdelivr.net/npm/docsify-markmap.js@1.0.0/docsify-markmap.min.js"></script>
 ```
@@ -33,3 +30,11 @@ add to index.html on your docsify.
  -345
 ```(end)
 ```
+
+![readme](./readme.png)
+
+## Thanks
+
+https://github.com/docsifyjs/docsify/
+
+https://github.com/markmap/markmap

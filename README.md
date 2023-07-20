@@ -31,6 +31,8 @@ add to index.html on your docsify.
 ```(end)
 ```
 
+### Open it on your docsify
+
 ![readme](./readme.png)
 
 ## Thanks

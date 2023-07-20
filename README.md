@@ -46,7 +46,7 @@ you can see https://markmap.js.org/
 
 ### Open it on your docsify
 
-![readme](./readme.png)
+[See the Demo](https://rcqed.github.io/docsify-markmap.js/)
 
 ## Thanks
 

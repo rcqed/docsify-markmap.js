@@ -15,7 +15,7 @@ add to index.html on your docsify.
 <script src="https://cdn.jsdelivr.net/npm/docsify-markmap.js@1.0.0/docsify-markmap.min.js"></script>
 ```
 
-### Add markmap code on your markdown
+### Add markmap code on your markdown, you can see https://markmap.js.org/
 
 ```
 ```markmap
